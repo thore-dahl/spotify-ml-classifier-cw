@@ -20,6 +20,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   <h1></h1>
-  A project based on users' Spotify preferences. Data on such song preferences, submitted to initial and explanatory analysis before being preprocessed. Preprocessed data fueled training and optimization in `K-Nearest-Neighbor`, "Decision Trees", and "Support Vector Machines". Optimization involved nested cross-validated hyperparameter tuning. The optimized depth-trimmed decision tree outperformed both dummy baseline and peers with an average F1 score of 73.33%, on yet unseen data. A music classifier, curating users' songs, was thus furnished.
+  A project based on users' Spotify preferences. Data on such song preferences, submitted to initial and explanatory analysis before being preprocessed. Preprocessed data fueled training and optimization in <code>K-Nearest-Neighbor</code>, <code>Decision Trees</code>, and <code>Support Vector Machines</code>. Optimization involved nested cross-validated hyperparameter tuning. The optimized depth-trimmed <code>Decision Tree</code> outperformed both dummy baseline and peers with an average F1 score of 73.33%, on yet unseen data. A music classifier, curating users' songs, was thus furnished.
 </div>
-Use `git status` to list all new or modified files that haven't yet been committed.
